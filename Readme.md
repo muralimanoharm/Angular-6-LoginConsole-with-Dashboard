@@ -4,7 +4,7 @@ angular-6-registration-login-example
 
 Description 
 
-A Angular application that is written in c++. Dynamic mining dificulty level setting is added.
+A  Simple Angular 6 application that alows user to add users.login page along with a dashboard for each user
 
 Getting Started 
 
